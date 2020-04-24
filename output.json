@@ -1,32 +1,7 @@
 [
     {
-        "total": 5
+        "total_room": 0,
+        "total_participants": 0
     },
-    [
-        {
-            "name": "newroom",
-            "participants": 2,
-            "host": ""
-        },
-        {
-            "name": "thuctap",
-            "participants": 1,
-            "host": ""
-        },
-        {
-            "name": "dsdaasda",
-            "participants": 1,
-            "host": ""
-        },
-        {
-            "name": "dev",
-            "participants": 1,
-            "host": ""
-        },
-        {
-            "name": "cccc",
-            "participants": 1,
-            "host": ""
-        }
-    ]
+    []
 ]
