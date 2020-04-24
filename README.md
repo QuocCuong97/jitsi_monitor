@@ -1,4 +1,4 @@
-# Guide
+# Tool giám sát thông số phòng họp Jitsi Meet
 ### Các thông số giám sát :
 - Số phòng đang mở
 - Tổng số người tham dự
